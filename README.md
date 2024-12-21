@@ -27,12 +27,12 @@ However, if you are using the provided `.exe` file, you don't need to install Py
 ## How to Use
 ### Using the Executable File:
 1. Download the `YouTubeDownloader.zip` file from the repository.
-2. Extract the ZIP file into a folder.
-3. Double-click on `YouTubeDownloader.exe` to launch the application.
-4. Paste the YouTube video link in the text box.
-5. Select the desired format (MP4 or MP3) from the dropdown.
-6. Click on **Download** and wait for the animation to finish.
-7. Your file will be saved in the `Downloads` folder in a new subfolder with the current date.
+2. Extract the ZIP file into a folder. ([how to install]([url](https://sites.google.com/view/skillcoursehelp/yt-videos-downloader?authuser=0)3. ))
+4. Double-click on `YouTubeDownloader.exe` to launch the application.
+5. Paste the YouTube video link in the text box.
+6. Select the desired format (MP4 or MP3) from the dropdown.
+7. Click on **Download** and wait for the animation to finish.
+8. Your file will be saved in the `Downloads` folder in a new subfolder with the current date.
 
 ### For Developers:
 To run the Python script, ensure you have the following installed:
